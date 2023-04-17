@@ -15,6 +15,7 @@
             });
         }
     </script>
+    <script src="/WEB-INF/resource/js/service-worker.js"></script>
 </head>
 <body>
 <h1>Hello World!</h1>
